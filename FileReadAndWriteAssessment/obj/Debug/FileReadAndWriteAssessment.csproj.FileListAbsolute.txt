@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\FileReadAndWriteAssessment\FileReadAndWriteAssessment\bin\Debug\FileReadAndWriteAssessment.exe.config
+C:\Users\hp\source\repos\FileReadAndWriteAssessment\FileReadAndWriteAssessment\bin\Debug\FileReadAndWriteAssessment.exe
+C:\Users\hp\source\repos\FileReadAndWriteAssessment\FileReadAndWriteAssessment\bin\Debug\FileReadAndWriteAssessment.pdb
+C:\Users\hp\source\repos\FileReadAndWriteAssessment\FileReadAndWriteAssessment\obj\Debug\FileReadAndWriteAssessment.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FileReadAndWriteAssessment\FileReadAndWriteAssessment\obj\Debug\FileReadAndWriteAssessment.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FileReadAndWriteAssessment\FileReadAndWriteAssessment\obj\Debug\FileReadAndWriteAssessment.exe
+C:\Users\hp\source\repos\FileReadAndWriteAssessment\FileReadAndWriteAssessment\obj\Debug\FileReadAndWriteAssessment.pdb
